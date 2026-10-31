@@ -57,7 +57,7 @@
 //                    | LSHIFT |     | SPC |   | ENT |     | RSHIFT |
                         bindings = <
    &kp  ESC  &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT   &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR &kp DEL
-   &kp TAB &trans   &trans &trans   &trans   &trans      &kp LBKT &kp RBKT &kp NUBS  &trans &trans &kp GRAVE
+   &kp TAB &trans   &trans &trans   &trans   &trans      &kp LBKT &kp RBKT &kp BACKSLASH  &trans &trans &kp GRAVE
    &kp LCTRL &trans   &trans &trans   &trans   &trans      &kp MINUS    &kp EQUAL    &trans    &trans    &trans   &kp TILDE
                              &kp LSHFT  &trans   &kp SPACE   &kp RET   &trans    &kp RSHIFT
                         >;
